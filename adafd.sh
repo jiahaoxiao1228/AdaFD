@@ -6,7 +6,7 @@ CLIENT_NUM=5
 R=5
 
 METRIC_TYPE="/gemini/code/evaluate/metrics/f1"
-DATA_DIR="/gemini/data-1/non-iid-extracted-data"
+DATA_DIR="/gemini/data-1/non-iid-original-data"
 CENTRAL_MODEL="/gemini/code/model/roberta-large"
 LOCAL_MODELS="/gemini/code/model/bert-base-cased,/gemini/code/model/bert-large-cased,/gemini/code/model/roberta-base,/gemini/code/model/roberta-large,/gemini/code/model/xlnet-large-cased"
 OUTPUT_DIR="/gemini/output"
