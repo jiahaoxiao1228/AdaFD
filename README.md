@@ -12,7 +12,10 @@ pip install -r requirements.txt
 ```
 
 ### Download Dataset
-
+```
+wget https://github.com/jiahaoxiao1228/AdaFD/raw/main/non-iid-original-data.zip
+unzip data.zip
+```
 
 ### Usage
 1. Modify the paths in `adafd.sh` to match your local environment.
