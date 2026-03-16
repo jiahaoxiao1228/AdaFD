@@ -3,7 +3,7 @@ This repository contains an implementation with PyTorch for the paper "**Adaptiv
 <p align="center">
 <img src="adafd.png" width="700">
 </p>
-For more details about the technical details of FedID, please refer to our paper.
+For more details about the technical details of AdaFD, please refer to our paper.
 
 ### Installation
 Run command below to install the environment (using python3):
